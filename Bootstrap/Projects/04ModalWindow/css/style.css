@@ -1,0 +1,17 @@
+body{
+  background: url(../newyork.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.cup{
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+  width: 350px;
+}
+
+#login-modal input[type=text], input[type=password]{
+  margin-top: 10px;
+}
